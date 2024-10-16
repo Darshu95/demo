@@ -1,3 +1,3 @@
 # demo
 My first repository.
-My second line if code in git
+My second line in code in git
